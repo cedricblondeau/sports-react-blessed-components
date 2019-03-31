@@ -1,0 +1,7 @@
+{
+  "name": "sports-react-blessed-components",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "author": "Cédric Blondeau",
+  "license": "MIT"
+}
